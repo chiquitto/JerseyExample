@@ -1,0 +1,2 @@
+http://stackoverflow.com/questions/17923273/restful-webservice-with-jersey-2-0-without-maven
+http://howtodoinjava.com/jersey/jersey-2-hello-world-application-tutorial/
