@@ -1,2 +1,3 @@
 http://stackoverflow.com/questions/17923273/restful-webservice-with-jersey-2-0-without-maven
 http://howtodoinjava.com/jersey/jersey-2-hello-world-application-tutorial/
+https://github.com/jasonray/jersey-starterkit/wiki/Create-a-%22Hello-World%22-jersey-project

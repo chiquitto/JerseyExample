@@ -1,4 +1,4 @@
-package br.com.chiquitto.jersey;
+package br.com.chiquitto.jersey.services;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
